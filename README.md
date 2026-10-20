@@ -177,14 +177,3 @@ Screenshots can be added to `screenshots/` **only after** hiding public IPs if d
 - How to retrieve the initial Jenkins unlock password from the server.
 - How to reach the Jenkins plugin installation step.
 
-## Next practice goals
-
-1. Finish the Jenkins setup wizard.
-2. Create a simple Freestyle job.
-3. Explore Jenkins build logs and job configuration.
-4. Connect Jenkins to a GitHub repository using appropriately scoped credentials.
-5. Learn how to configure a basic CI pipeline with a `Jenkinsfile`.
-
----
-
-**Disclaimer:** This is a learning lab. Commands and networking settings should be adapted to your own AWS account and reviewed for security before production use.
