@@ -108,7 +108,7 @@ sudo journalctl -u jenkins --no-pager -n 50
 In the **Ubuntu SSH terminal**, run:
 
 ```bash
-sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+sudo cat /var/lib/jenkins***********************************
 ```
 
 Copy the output privately, paste it into the **Administrator password** field on the **Unlock Jenkins** page, and click **Continue**.
